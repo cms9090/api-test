@@ -1,0 +1,87 @@
+{
+    "code" : 100,
+    "count" : 20,
+    "creator_count" : 300,
+    "data" : [
+        {
+            "user_no" : 1,
+            "user_profile_img_url" : "",
+            "nick_name" : "샤넬라",
+            "user_introduce" : "환상의 5초를 소개해줄께요.",
+            "finished_request" : 30,
+            "sns_data" : [
+                {
+                    "youtube" : 30,
+                    "instagram" : 28
+                }
+            ],
+            "user_level" : "NEWCOMER",
+            "is_follw" : false,
+            "user_role" : 2
+        },
+        {
+            "user_no" : 1,
+            "user_profile_img_url" : "",
+            "nick_name" : "샤넬라",
+            "user_introduce" : "환상의 5초를 소개해줄께요.",
+            "finished_request" : 30,
+            "sns_data" : [
+                {
+                    "youtube" : 30,
+                    "instagram" : 28
+                }
+            ],
+            "user_level" : "NEWCOMER",
+            "is_follw" : false,
+            "user_role" : 2
+        },
+        {
+            "user_no" : 1,
+            "user_profile_img_url" : "",
+            "nick_name" : "샤넬라",
+            "user_introduce" : "환상의 5초를 소개해줄께요.",
+            "finished_request" : 30,
+            "sns_data" : [
+                {
+                    "youtube" : 30,
+                    "instagram" : 28
+                }
+            ],
+            "user_level" : "NEWCOMER",
+            "is_follw" : false,
+            "user_role" : 2
+        },
+        {
+            "user_no" : 1,
+            "user_profile_img_url" : "",
+            "nick_name" : "샤넬라",
+            "user_introduce" : "환상의 5초를 소개해줄께요.",
+            "finished_request" : 30,
+            "sns_data" : [
+                {
+                    "youtube" : 30,
+                    "instagram" : 28
+                }
+            ],
+            "user_level" : "NEWCOMER",
+            "is_follw" : false,
+            "user_role" : 2
+        },
+        {
+            "user_no" : 1,
+            "user_profile_img_url" : "",
+            "nick_name" : "샤넬라",
+            "user_introduce" : "환상의 5초를 소개해줄께요.",
+            "finished_request" : 30,
+            "sns_data" : [
+                {
+                    "youtube" : 30,
+                    "instagram" : 28
+                }
+            ],
+            "user_level" : "NEWCOMER",
+            "is_follw" : false,
+            "user_role" : 2
+        }
+    ]
+}
