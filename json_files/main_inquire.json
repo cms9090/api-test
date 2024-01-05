@@ -1,0 +1,42 @@
+{
+    "code" : 100,
+    "data" : [
+        {
+            "main_banner" : [
+                {
+                    "contents_no" : 64,
+                    "thumnail_img_url" : "콘텐츠 썸네일 이미지 경로"
+                },
+                {
+                    "contents_no" : 73,
+                    "thumnail_img_url" : "콘텐츠 썸네일 이미지 경로"
+                }
+            ],
+            "partners" : [
+                {
+
+                }
+            ],
+            "contents" : [
+                {
+
+                }
+            ],
+            "creators" : [
+                {
+
+                }
+            ],
+            "packages" : [
+                {
+
+                }
+            ],
+            "requests" : [
+                {
+
+                }
+            ]
+        }
+    ]
+}
