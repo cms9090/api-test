@@ -460,7 +460,7 @@
             "reply_count" : 20,
             "is_like" : false,
             "is_share" : 2,
-            "contents_ad_status" : true,
+            "contents_ad_status" : True,
             "contents_status" : 1
         },
         {
