@@ -1,87 +1,43 @@
 {
     "code" : 100,
-    "count" : 20,
-    "creator_count" : 300,
+    "count" : 6,
+    "partner_count" : 6,
     "data" : [
         {
-            "user_no" : 1,
-            "user_profile_img_url" : "",
-            "nick_name" : "샤넬라",
-            "user_introduce" : "환상의 5초를 소개해줄께요.",
-            "finished_request" : 30,
-            "sns_data" : [
-                {
-                    "youtube" : 30,
-                    "instagram" : 28
-                }
-            ],
-            "user_level" : "NEWCOMER",
-            "is_follw" : false,
-            "user_role" : 2
+            "user_no" : 64,
+            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_nick_name" : "기업시민 포스코",
+            "user_role" : 1
+        },
+        {
+            "user_no" : 35,
+            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_nick_name" : "경기콘텐츠 진흥원",
+            "user_role" : 1
         },
         {
             "user_no" : 1,
-            "user_profile_img_url" : "",
-            "nick_name" : "샤넬라",
-            "user_introduce" : "환상의 5초를 소개해줄께요.",
-            "finished_request" : 30,
-            "sns_data" : [
-                {
-                    "youtube" : 30,
-                    "instagram" : 28
-                }
-            ],
-            "user_level" : "NEWCOMER",
-            "is_follw" : false,
-            "user_role" : 2
+            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_nick_name" : "보람상조",
+            "user_role" : 1
         },
         {
-            "user_no" : 1,
-            "user_profile_img_url" : "",
-            "nick_name" : "샤넬라",
-            "user_introduce" : "환상의 5초를 소개해줄께요.",
-            "finished_request" : 30,
-            "sns_data" : [
-                {
-                    "youtube" : 30,
-                    "instagram" : 28
-                }
-            ],
-            "user_level" : "NEWCOMER",
-            "is_follw" : false,
-            "user_role" : 2
+            "user_no" : 107,
+            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_nick_name" : "슈가버블",
+            "user_role" : 1
         },
         {
-            "user_no" : 1,
-            "user_profile_img_url" : "",
-            "nick_name" : "샤넬라",
-            "user_introduce" : "환상의 5초를 소개해줄께요.",
-            "finished_request" : 30,
-            "sns_data" : [
-                {
-                    "youtube" : 30,
-                    "instagram" : 28
-                }
-            ],
-            "user_level" : "NEWCOMER",
-            "is_follw" : false,
-            "user_role" : 2
+            "user_no" : 70,
+            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_nick_name" : "성지병원",
+            "user_role" : 1
         },
         {
-            "user_no" : 1,
-            "user_profile_img_url" : "",
-            "nick_name" : "샤넬라",
-            "user_introduce" : "환상의 5초를 소개해줄께요.",
-            "finished_request" : 30,
-            "sns_data" : [
-                {
-                    "youtube" : 30,
-                    "instagram" : 28
-                }
-            ],
-            "user_level" : "NEWCOMER",
-            "is_follw" : false,
-            "user_role" : 2
+            "user_no" : 91,
+            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_nick_name" : "군인공제회",
+            "user_role" : 1
         }
     ]
 }

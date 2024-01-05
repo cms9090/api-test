@@ -54,37 +54,37 @@
                 {
                     "user_no" : 64,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-                    "nick_name" : "기업시민 포스코",
+                    "user_nick_name" : "기업시민 포스코",
                     "user_role" : 1
                 },
                 {
                     "user_no" : 35,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-                    "nick_name" : "경기콘텐츠 진흥원",
+                    "user_nick_name" : "경기콘텐츠 진흥원",
                     "user_role" : 1
                 },
                 {
                     "user_no" : 1,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-                    "nick_name" : "보람상조",
+                    "user_nick_name" : "보람상조",
                     "user_role" : 1
                 },
                 {
                     "user_no" : 107,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-                    "nick_name" : "슈가버블",
+                    "user_nick_name" : "슈가버블",
                     "user_role" : 1
                 },
                 {
                     "user_no" : 70,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-                    "nick_name" : "성지병원",
+                    "user_nick_name" : "성지병원",
                     "user_role" : 1
                 },
                 {
                     "user_no" : 91,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-                    "nick_name" : "군인공제회",
+                    "user_nick_name" : "군인공제회",
                     "user_role" : 1
                 }
             ],
