@@ -307,7 +307,7 @@
                     "youtube" : 30,
                     "instagram" : 28,
                     "user_level" : "NEWCOMER",
-                    "is_follw" : false,
+                    "is_follow" : false,
                     "user_role" : 2
                 },
                 {
@@ -319,7 +319,7 @@
                     "youtube" : 30,
                     "instagram" : 28,
                     "user_level" : "NEWCOMER",
-                    "is_follw" : false,
+                    "is_follow" : false,
                     "user_role" : 2
                 },
                 {
@@ -331,7 +331,7 @@
                     "youtube" : 30,
                     "instagram" : 28,
                     "user_level" : "NEWCOMER",
-                    "is_follw" : false,
+                    "is_follow" : false,
                     "user_role" : 2
                 },
                 {
@@ -343,7 +343,7 @@
                     "youtube" : 30,
                     "instagram" : 28,
                     "user_level" : "NEWCOMER",
-                    "is_follw" : false,
+                    "is_follow" : false,
                     "user_role" : 2
                 },
                 {
@@ -355,7 +355,7 @@
                     "youtube" : 30,
                     "instagram" : 28,
                     "user_level" : "NEWCOMER",
-                    "is_follw" : false,
+                    "is_follow" : false,
                     "user_role" : 2
                 }
             ],
