@@ -1,0 +1,12 @@
+{
+    "code": 100,
+    "data": [
+        {
+            "user_no": 1,
+            "user_email": "hong@email.com",
+            "user_name": "홍길동",
+            "user_nick_name": "크리에이터1",
+            "user_role": 1
+        }
+    ]
+}

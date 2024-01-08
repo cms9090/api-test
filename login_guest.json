@@ -1,0 +1,11 @@
+{
+    "code": 100,
+    "data": [
+        {
+            "user_id": "guest#12345",
+            "user_name": "guest#12345",
+            "user_nick_name": "guest#12345",
+            "user_role": 0
+        }
+    ]
+}
