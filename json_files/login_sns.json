@@ -1,3 +1,14 @@
 {
-    "code": 100
+    "code": 100,
+    "data": [
+        {
+            "user_no": 2,
+            "user_email": "kik@email.com",
+            "user_name": "김인기",
+            "user_nick_name": "인기맨",
+            "user_profile_img_url": "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
+            "user_role": 1,
+            "user_state": 0
+        }
+    ]
 }

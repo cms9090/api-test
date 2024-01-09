@@ -6,7 +6,9 @@
             "user_email": "hong@email.com",
             "user_name": "홍길동",
             "user_nick_name": "크리에이터1",
-            "user_role": 1
+            "user_profile_img_url": "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
+            "user_role": 2,
+            "user_state": 0
         }
     ]
 }
