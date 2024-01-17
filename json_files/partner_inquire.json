@@ -5,45 +5,45 @@
     "data" : [
         {
             "user_no" : 64,
-            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-            "user_nick_name" : "기업시민 포스코",
-            "user_address" : "경상북도 포항시 남구 동해안로 6261",
-            "user_role" : 1
+            "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_adver_nick_name" : "기업시민 포스코",
+            "user_adver_address" : "경상북도 포항시 남구 동해안로 6261",
+            "user_gallery_type" : 2
         },
         {
             "user_no" : 35,
-            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-            "user_nick_name" : "경기콘텐츠 진흥원",
-            "user_address" : "경기도 부천시 원미구 부천로 198번길 18 2차 202동 9층 경기콘텐츠진흥원 춘의테크노파크",
-            "user_role" : 1
+            "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_adver_nick_name" : "경기콘텐츠 진흥원",
+            "user_adver_address" : "경기도 부천시 원미구 부천로 198번길 18 2차 202동 9층 경기콘텐츠진흥원 춘의테크노파크",
+            "user_gallery_type" : 2
         },
         {
             "user_no" : 1,
-            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-            "user_nick_name" : "보람상조",
-            "user_address" : "서울특별시 중구 세종대로 73",
-            "user_role" : 1
+            "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_adver_nick_name" : "보람상조",
+            "user_adver_address" : "서울특별시 중구 세종대로 73",
+            "user_gallery_type" : 2
         },
         {
             "user_no" : 107,
-            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-            "user_nick_name" : "슈가버블",
-            "user_address" : "서울시 강동구 천호대로 1077 이스트센트럴타워 25층",
-            "user_role" : 1
+            "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_adver_nick_name" : "슈가버블",
+            "user_adver_address" : "서울시 강동구 천호대로 1077 이스트센트럴타워 25층",
+            "user_gallery_type" : 2
         },
         {
             "user_no" : 70,
-            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-            "user_nick_name" : "성지병원",
-            "user_address" : "강원도 원주시 원일로 22(인동)",
-            "user_role" : 1
+            "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_adver_nick_name" : "성지병원",
+            "user_adver_address" : "강원도 원주시 원일로 22(인동)",
+            "user_gallery_type" : 2
         },
         {
             "user_no" : 91,
-            "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-            "user_nick_name" : "군인공제회",
-            "user_address" : "서울시 강남구 남부순환로 2806 군인공제회",
-            "user_role" : 1
+            "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_adver_nick_name" : "군인공제회",
+            "user_adver_address" : "서울시 강남구 남부순환로 2806 군인공제회",
+            "user_gallery_type" : 2
         }
     ]
 }
