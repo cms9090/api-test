@@ -5,35 +5,35 @@
     "data" : [
         {
             "request_no" : 126,
-            "adver_profile_img_url": "https://f.5s.co.kr/s2/v1.0/file/509_small.jpg?dest=contents&type=contents&typeNo=254",
-            "adver_nick_name": "도깨비 손 칼국수",
-            "adver_address": "인천 광역시 성수동 20-3",
+            "user_adver_profile_img_url": "https://f.5s.co.kr/s2/v1.0/file/509_small.jpg?dest=contents&type=contents&typeNo=254",
+            "user_adver_nick_name": "도깨비 손 칼국수",
+            "user_adver_address": "인천 광역시 성수동 20-3",
             "request_tm": "2023.11.17",
             "request_status" : 0
         },
         {
             "request_no" : 121,
-            "adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/510_small.jpg?dest=contents&type=contents&typeNo=255",
-            "adver_nick_name": "레고랜드전경",
-            "adver_address": "인천 광역시 성수동 20-3",
+            "user_adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/510_small.jpg?dest=contents&type=contents&typeNo=255",
+            "user_adver_nick_name": "레고랜드전경",
+            "user_adver_address": "인천 광역시 성수동 20-3",
             "request_tm": "2023.11.15",
             "request_status" : 0
         },
         {
             "request_no" : 117,
-            "adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-            "adver_nick_name": "수봉카페",
-            "adver_address": "인천 광역시 성수동 20-3",
+            "user_adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_adver_nick_name": "수봉카페",
+            "user_adver_address": "인천 광역시 성수동 20-3",
             "request_tm": "2023.11.14",
-            "request_status" : 0
+            "request_status" : 1
         },
         {
             "request_no" : 113,
-            "adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-            "adver_nick_name": "한솔양봉",
-            "adver_address": "경기도 포천시 일동면 소야길 123-5",
+            "user_adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "user_adver_nick_name": "한솔양봉",
+            "user_adver_address": "경기도 포천시 일동면 소야길 123-5",
             "request_tm": "2023.11.12",
-            "request_status" : 0
+            "request_status" : 1
         }
     ]
 }
