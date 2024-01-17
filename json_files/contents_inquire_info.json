@@ -3,15 +3,16 @@
     "data": [
         {
             "contents_no": 1609,
-            "contents_thumnail_img_url": "https://f.5s.co.kr/s2/v1.0/file/1609_small.jpg?dest=contents&type=contents&typeNo=2470049",
+            "contents_thumbnail_img_url": "https://f.5s.co.kr/s2/v1.0/file/1609_small.jpg?dest=contents&type=contents&typeNo=2470049",
             "contents_url": "https://f.5s.co.kr/s2/v1.0/file/1609_hls.m3u8?dest=contents&type=contents&typeNo=2470049",
             "contents_ext": "mp4",
             "contents_width_size": 2160,
             "contents_height_size": 3840,
             "contents_length": 5000,
-            "contents_user_no": 22,
-            "contents_user_nick_name": "그린그라스 테라스 카페",
-            "contents_user_profile_img_url": "https://f.5s.co.kr/i2/v1.0/image/1159_creator.png?dest=profile&type=creator&typeNo=1159",
+            "user_no": 22,
+            "user_adver_nick_name": "그린그라스 테라스 카페",
+            "user_adver_profile_img_url": "https://f.5s.co.kr/i2/v1.0/image/1159_creator.png?dest=profile&type=creator&typeNo=1159",
+            "user_gallery_type" : 1,
             "contents_title": "그린그라스 카페 홍보",
             "contents_post": "기분좋은 날 나는 그린그라스 테라스에 간다!\n그린그라스 테라스 카페만의 시그니처 메뉴를 맛 보세요.",
             "contents_keywords": "카페,그린그라스,삼성동,맛집,SNS사진",
@@ -22,7 +23,7 @@
             "is_like": true,
             "is_share": 1,
             "contents_ad_status" : false,
-            "contents_status": 1
+            "contents_type" : 0
         }
     ]
 }
