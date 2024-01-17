@@ -7,12 +7,12 @@
     "data" : [
         {
             "contents_no": 1,
-            "thumnail_img_url": "썸네일 이미지 경로",
+            "contents_thumbnail_img_url": "썸네일 이미지 경로",
             "contents_title": "커피날다"
         },
         {
-            "contents_id": 6,
-            "thumnail_img_url": "썸네일 이미지 경로",
+            "contents_no": 6,
+            "contents_thumbnail_img_url": "썸네일 이미지 경로",
             "contents_title": "잼분식"
         }
     ]
