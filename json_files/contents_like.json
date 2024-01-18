@@ -1,3 +1,10 @@
 {
-    "code": 100
+    "code": 100,
+    "data" : [
+        {
+            "contents_no" : 12,
+            "like_count" : 13,
+            "is_like" : true
+        }
+    ]
 }
