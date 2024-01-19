@@ -1,0 +1,40 @@
+{
+    "code": 100,
+    "data": [
+        {
+            "promotion_no": 1,
+            "package_title": "Premium",
+            "price": "1억원",
+            "contents": [
+                {
+                    "title": "5초콘텐츠 10편",
+                    "detail": "FULL HD 화질"
+                }
+            ],
+            "movie": [
+                {
+                    "title": "60초 동영상",
+                    "detail": "FULL HD 화질"
+                }
+            ],
+            "creator": [
+                {
+                    "title": "프로페셔널 크리에이터2명,그랜드마스터 크리에이터 1명,60초 동영상 전담팀",
+                    "detail": ""
+                }
+            ],
+            "model": [
+                {
+                    "title": "추천모델 4명",
+                    "detail": "전편 출연"
+                }
+            ],
+            "plan": [
+                {
+                    "title": "기획안 제공",
+                    "detail": "스토리보드,60초 동영상 콘티"
+                }
+            ]
+        }
+    ]
+}

@@ -378,26 +378,31 @@
             ],
             "packages" : [
                 {
+                    "promotion_no" : 0,
                     "package_title" : "구독권",
                     "price" : "360만원",
                     "option" : "5초콘텐츠10편,크리에이터1명,구독기간1년"
                 },
                 {
+                    "promotion_no" : 1,
                     "package_title" : "Basic",
                     "price" : "500만원",
                     "option" : "5초콘텐츠10편,크리에이터2명,모델1명(5편)"
                 },
                 {
+                    "promotion_no" : 2,
                     "package_title" : "Standard",
                     "price" : "1,500만원",
                     "option" : "5초콘텐츠20편,크리에이터2명,모델2명(10편)"
                 },
                 {
+                    "promotion_no" : 3,
                     "package_title" : "Best",
                     "price" : "5,000만원",
                     "option" : "5초콘텐츠30편,크리에이터3명,모델4명(전편)"
                 },
                 {
+                    "promotion_no" : 4,
                     "package_title" : "Premium",
                     "price" : "1억원",
                     "option" : "5초콘텐츠30편,60초동영상,크리에이터4명,모델4명(전편)"
