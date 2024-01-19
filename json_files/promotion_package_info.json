@@ -2,9 +2,9 @@
     "code": 100,
     "data": [
         {
-            "promotion_no": 1,
+            "package_no": 1,
             "package_title": "Premium",
-            "price": "1억원",
+            "package_price": "1억원",
             "contents": [
                 {
                     "title": "5초콘텐츠 10편",
