@@ -1,0 +1,47 @@
+{
+    "code": 100,
+    "data": [
+        {
+            "user_info": [
+                {
+                    "user_no" : 22,
+                    "user_profile_img_url" : "",
+                    "user_nick_name" : "샤넬라",
+                    "user_type": 0,
+                    "user_introduce" : "환상의 5초를 소개해줄께요.",
+                    "finished_request" : 30,
+                    "youtube" : 30,
+                    "instagram" : 28,
+                    "user_level" : "NEWCOMER",
+                    "new_alarm" : false
+                }
+            ],
+            "portfolio": [
+                {
+                    "contents_no": 1300,
+                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s2/v1.0/file/1300_small.jpg?dest=contents&type=contents&typeNo=391",
+                    "contents_url" : "https://f.5s.co.kr/s2/v1.0/file/1300_hls.m3u8?dest=contents&type=contents&typeNo=391",
+                    "contents_ext" : "mp4",
+                    "contents_width_size" : 720,
+                    "contents_height_size" : 1280,
+                    "contents_length" : 5000,
+                    "user_no" : 332,
+                    "user_nick_name" : "릴리",
+                    "user_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
+                    "user_gallery_type" : 0,
+                    "contents_title" : "삼성동 GIGI 커피 홍보",
+                    "contents_post" : "조용한 분위기 삼성동 카페입니다.",
+                    "contents_keywords" : "GIGI,카페,삼성동",
+                    "contents_location" : "서울특별시 삼성동 32 기기커피",
+                    "like_count" : 124,
+                    "share_count" : 115,
+                    "reply_count" : 20,
+                    "is_like" : true,
+                    "is_share" : 0,
+                    "contents_ad_status" : false,
+                    "contents_type" : 1
+                }
+            ]
+        }
+    ]
+}
