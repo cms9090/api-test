@@ -1,3 +1,37 @@
 {
-    "code": 100
+    "code": 100,
+    "data": [
+        {
+            "subscribeInfo": [
+                {
+                    "leftSubscribeCount": 4,
+                    "usedSubscribeCount": 6,
+                    "expiredDate": "2025년 1월 30일"
+                }
+            ],
+            "subscribeRequestHistory" : [
+                {
+                    "requestNo": 1,
+                    "requestTitle": "업장 홍보영상",
+                    "requestCount": 1,
+                    "requestTm": "2024.08.31",
+                    "requestStatus": 1
+                },
+                {
+                    "requestNo": 5,
+                    "requestTitle": "신메뉴 홍보",
+                    "requestCount": 2,
+                    "requestTm": "2024.07.31",
+                    "requestStatus": 9
+                },
+                {
+                    "requestNo": 25,
+                    "requestTitle": "신메뉴",
+                    "requestCount": 3,
+                    "requestTm": "2024.06.30",
+                    "requestStatus": 9
+                }
+            ]
+        }
+    ]
 }
