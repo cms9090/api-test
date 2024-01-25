@@ -1,0 +1,14 @@
+{
+    "fdAppLoginInfo": [
+        {
+            "userNo": 2,
+            "userEmail": "kik@email.com",
+            "userName": "김인기",
+            "userNickName": "인기맨",
+            "userProfileImgUrl": "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
+            "userRole": 1,
+            "userState": 0,
+            "userToken": "dkkheigokendkjkjvdf"
+        }
+    ]
+}
