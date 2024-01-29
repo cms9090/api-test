@@ -1,3 +1,8 @@
 {
-    "code": 100
+    "code": 100,
+    "data": [
+        {
+            "userToken": "1asnjfkasnvoasrpsndklf"
+        }
+    ]
 }
