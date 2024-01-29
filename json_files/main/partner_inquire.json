@@ -1,0 +1,48 @@
+{
+    "code" : 100,
+    "recordCount" : 6,
+    "data" : [
+        {
+            "userNo" : 64,
+            "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "userAdverNickName" : "기업시민 포스코",
+            "userAdverAddress" : "경상북도 포항시 남구 동해안로 6261",
+            "userGalleryType" : 2
+        },
+        {
+            "userNo" : 35,
+            "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "userAdverNickName" : "경기콘텐츠 진흥원",
+            "userAdverAddress" : "경기도 부천시 원미구 부천로 198번길 18 2차 202동 9층 경기콘텐츠진흥원 춘의테크노파크",
+            "userGalleryType" : 2
+        },
+        {
+            "userNo" : 1,
+            "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "userAdverNickName" : "보람상조",
+            "userAdverAddress" : "서울특별시 중구 세종대로 73",
+            "userGalleryType" : 2
+        },
+        {
+            "userNo" : 107,
+            "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "userAdverNickName" : "슈가버블",
+            "userAdverAddress" : "서울시 강동구 천호대로 1077 이스트센트럴타워 25층",
+            "userGalleryType" : 2
+        },
+        {
+            "userNo" : 70,
+            "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "userAdverNickName" : "성지병원",
+            "userAdverAddress" : "강원도 원주시 원일로 22(인동)",
+            "userGalleryType" : 2
+        },
+        {
+            "userNo" : 91,
+            "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+            "userAdverNickName" : "군인공제회",
+            "userAdverAddress" : "서울시 강남구 남부순환로 2806 군인공제회",
+            "userGalleryType" : 2
+        }
+    ]
+}
