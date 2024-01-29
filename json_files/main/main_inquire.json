@@ -2,40 +2,40 @@
     "code" : 100,
     "data" : [
         {
-            "main_banner" : [
+            "mainPageBannerList" : [
                 {
-                    "contents_no" : 1468,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
-                    "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1538_hls.m3u8?dest=contents&type=contents&typeNo=1494350",
-                    "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
-                    "contents_height_size" : 1440,
-                    "contents_length" : 5000,
-                    "user_no" : 405,
-                    "user_adver_nick_name" : "벡스터",
-                    "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
-                    "user_gallery_type" : 1,
-                    "contents_title" : "분리배출 요일제",
-                    "contents_post" : "비닐은 투명, 반투명 봉투에 담아 목요일에 버리세요.",
-                    "contents_keywords" : "분리배출,강남구",
-                    "contents_location" : "인천광역시 성수도 20-3",
-                    "like_count" : 124,
-                    "share_count" : 115,
-                    "reply_count" : 20,
-                    "is_like" : false,
-                    "is_share" : 0,
-                    "contents_ad_status" : true,
-                    "contents_type" : 0
+                    "contentsNo" : 1468,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
+                    "contentsUrl" : "https://f.5s.co.kr/s1/v1.0/file/1538_hls.m3u8?dest=contents&type=contents&typeNo=1494350",
+                    "contentsExt" : "mp4",
+                    "contentsWidthSize" : 1080,
+                    "contentsHeightSize" : 1440,
+                    "contentsLength" : 5000,
+                    "userNo" : 405,
+                    "userAdverNickName" : "벡스터",
+                    "userAdverProfileImgUrl" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
+                    "userGalleryType" : 1,
+                    "contentsTitle" : "분리배출 요일제",
+                    "contentsPost" : "비닐은 투명, 반투명 봉투에 담아 목요일에 버리세요.",
+                    "contentsKeywords" : "분리배출,강남구",
+                    "contentsLocation" : "인천광역시 성수도 20-3",
+                    "likeCount" : 124,
+                    "shareCount" : 115,
+                    "replyCount" : 20,
+                    "isLike" : false,
+                    "isShare" : 0,
+                    "contentsAdStatus" : true,
+                    "contentsType" : 0
                 },
                 {
-                    "contents_no" : 1442,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1384_small.jpg?dest=contents&type=contents&typeNo=2470002",
-                    "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1384_hls.m3u8?dest=contents&type=contents&typeNo=2470002",
-                    "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
-                    "contents_height_size" : 1920,
+                    "contentsNo" : 1442,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1384_small.jpg?dest=contents&type=contents&typeNo=2470002",
+                    "contentsUrl" : "https://f.5s.co.kr/s1/v1.0/file/1384_hls.m3u8?dest=contents&type=contents&typeNo=2470002",
+                    "contentsExt" : "mp4",
+                    "contentsWidthSize" : 1080,
+                    "contentsHeightSize" : 1920,
                     "contents_length" : 5000,
-                    "user_no" : 1234,
+                    "userNo" : 1234,
                     "user_adver_nick_name" : "벡스터1",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -54,43 +54,43 @@
             ],
             "partners" : [
                 {
-                    "user_no" : 64,
-                    "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+                    "userNo" : 64,
+                    "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_adver_nick_name" : "기업시민 포스코",
                     "user_adver_address" : "경상북도 포항시 남구 동해안로 6261",
                     "user_gallery_type" : 2
                 },
                 {
-                    "user_no" : 35,
-                    "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+                    "userNo" : 35,
+                    "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_adver_nick_name" : "경기콘텐츠 진흥원",
                     "user_adver_address" : "경기도 부천시 원미구 부천로 198번길 18 2차 202동 9층 경기콘텐츠진흥원 춘의테크노파크",
                     "user_gallery_type" : 2
                 },
                 {
-                    "user_no" : 1,
-                    "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+                    "userNo" : 1,
+                    "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_adver_nick_name" : "보람상조",
                     "user_adver_address" : "서울특별시 중구 세종대로 73",
                     "user_gallery_type" : 2
                 },
                 {
-                    "user_no" : 107,
-                    "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+                    "userNo" : 107,
+                    "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_adver_nick_name" : "슈가버블",
                     "user_adver_address" : "서울시 강동구 천호대로 1077 이스트센트럴타워 25층",
                     "user_gallery_type" : 2
                 },
                 {
-                    "user_no" : 70,
-                    "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+                    "userNo" : 70,
+                    "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_adver_nick_name" : "성지병원",
                     "user_adver_address" : "강원도 원주시 원일로 22(인동)",
                     "user_gallery_type" : 2
                 },
                 {
-                    "user_no" : 91,
-                    "user_adver_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+                    "userNo" : 91,
+                    "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_adver_nick_name" : "군인공제회",
                     "user_adver_address" : "서울시 강남구 남부순환로 2806 군인공제회",
                     "user_gallery_type" : 2
@@ -98,14 +98,14 @@
             ],
             "contents" : [
                 {
-                    "contents_no" : 1468,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
+                    "contentsNo" : 1468,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
                     "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1538_hls.m3u8?dest=contents&type=contents&typeNo=1494350",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
+                    "contentsWidthSize" : 1080,
                     "contents_height_size" : 1440,
                     "contents_length" : 5000,
-                    "user_no" : 405,
+                    "userNo" : 405,
                     "user_adver_nick_name" : "벡스터",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -122,14 +122,14 @@
                     "contents_type" : 0
                 },
                 {
-                    "contents_no" : 1442,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1384_small.jpg?dest=contents&type=contents&typeNo=2470002",
+                    "contentsNo" : 1442,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1384_small.jpg?dest=contents&type=contents&typeNo=2470002",
                     "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1384_hls.m3u8?dest=contents&type=contents&typeNo=2470002",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
+                    "contentsWidthSize" : 1080,
                     "contents_height_size" : 1920,
                     "contents_length" : 5000,
-                    "user_no" : 1234,
+                    "userNo" : 1234,
                     "user_adver_nick_name" : "벡스터1",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -146,14 +146,14 @@
                     "contents_type" : 0
                 },
                 {
-                    "contents_no" : 1322,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1322_small.jpg?dest=contents&type=contents&typeNo=417",
+                    "contentsNo" : 1322,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1322_small.jpg?dest=contents&type=contents&typeNo=417",
                     "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1322_hls.m3u8?dest=contents&type=contents&typeNo=417",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
+                    "contentsWidthSize" : 1080,
                     "contents_height_size" : 1920,
                     "contents_length" : 5000,
-                    "user_no" : 1278,
+                    "userNo" : 1278,
                     "user_adver_nick_name" : "벡스터 레이디",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -170,14 +170,14 @@
                     "contents_type" : 0
                 },
                 {
-                    "contents_no" : 1300,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s2/v1.0/file/1300_small.jpg?dest=contents&type=contents&typeNo=391",
+                    "contentsNo" : 1300,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s2/v1.0/file/1300_small.jpg?dest=contents&type=contents&typeNo=391",
                     "contents_url" : "https://f.5s.co.kr/s2/v1.0/file/1300_hls.m3u8?dest=contents&type=contents&typeNo=391",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 720,
+                    "contentsWidthSize" : 720,
                     "contents_height_size" : 1280,
                     "contents_length" : 5000,
-                    "user_no" : 332,
+                    "userNo" : 332,
                     "user_adver_nick_name" : "릴리",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -194,14 +194,14 @@
                     "contents_type" : 0
                 },
                 {
-                    "contents_no" : 1468,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
+                    "contentsNo" : 1468,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
                     "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1538_hls.m3u8?dest=contents&type=contents&typeNo=1494350",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
+                    "contentsWidthSize" : 1080,
                     "contents_height_size" : 1440,
                     "contents_length" : 5000,
-                    "user_no" : 405,
+                    "userNo" : 405,
                     "user_adver_nick_name" : "벡스터",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -218,14 +218,14 @@
                     "contents_type" : 0
                 },
                 {
-                    "contents_no" : 1442,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1384_small.jpg?dest=contents&type=contents&typeNo=2470002",
+                    "contentsNo" : 1442,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1384_small.jpg?dest=contents&type=contents&typeNo=2470002",
                     "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1384_hls.m3u8?dest=contents&type=contents&typeNo=2470002",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
+                    "contentsWidthSize" : 1080,
                     "contents_height_size" : 1920,
                     "contents_length" : 5000,
-                    "user_no" : 1234,
+                    "userNo" : 1234,
                     "user_adver_nick_name" : "벡스터1",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -242,14 +242,14 @@
                     "contents_type" : 0
                 },
                 {
-                    "contents_no" : 1322,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1322_small.jpg?dest=contents&type=contents&typeNo=417",
+                    "contentsNo" : 1322,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1322_small.jpg?dest=contents&type=contents&typeNo=417",
                     "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1322_hls.m3u8?dest=contents&type=contents&typeNo=417",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
+                    "contentsWidthSize" : 1080,
                     "contents_height_size" : 1920,
                     "contents_length" : 5000,
-                    "user_no" : 1278,
+                    "userNo" : 1278,
                     "user_adver_nick_name" : "벡스터 레이디",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -266,14 +266,14 @@
                     "contents_type" : 0
                 },
                 {
-                    "contents_no" : 1300,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s2/v1.0/file/1300_small.jpg?dest=contents&type=contents&typeNo=391",
+                    "contentsNo" : 1300,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s2/v1.0/file/1300_small.jpg?dest=contents&type=contents&typeNo=391",
                     "contents_url" : "https://f.5s.co.kr/s2/v1.0/file/1300_hls.m3u8?dest=contents&type=contents&typeNo=391",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 720,
+                    "contentsWidthSize" : 720,
                     "contents_height_size" : 1280,
                     "contents_length" : 5000,
-                    "user_no" : 332,
+                    "userNo" : 332,
                     "user_adver_nick_name" : "릴리",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -290,14 +290,14 @@
                     "contents_type" : 0
                 },
                 {
-                    "contents_no" : 1468,
-                    "contents_thumbnail_img_url" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
+                    "contentsNo" : 1468,
+                    "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
                     "contents_url" : "https://f.5s.co.kr/s1/v1.0/file/1538_hls.m3u8?dest=contents&type=contents&typeNo=1494350",
                     "contents_ext" : "mp4",
-                    "contents_width_size" : 1080,
+                    "contentsWidthSize" : 1080,
                     "contents_height_size" : 1440,
                     "contents_length" : 5000,
-                    "user_no" : 405,
+                    "userNo" : 405,
                     "user_adver_nick_name" : "벡스터",
                     "user_adver_profile_img_url" : "https://f.5s.co.kr/i1/v1.0/image/838_user.jpg?dest=profile&type=user&typeNo=838",
                     "user_gallery_type" : 1,
@@ -316,7 +316,7 @@
             ],
             "creators" : [
                 {
-                    "user_no" : 1,
+                    "userNo" : 1,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_nick_name" : "샤넬라",
                     "user_introduce" : "환상의 5초를 소개해줄께요.",
@@ -325,10 +325,12 @@
                     "instagram" : 28,
                     "user_level" : "NEWCOMER",
                     "is_follow" : false,
-                    "user_gallery_type" : 0
+                    "userGalleryType
+                    
+                    " : 0
                 },
                 {
-                    "user_no" : 1,
+                    "userNo" : 1,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_nick_name" : "샤넬라",
                     "user_introduce" : "환상의 5초를 소개해줄께요.",
@@ -337,10 +339,10 @@
                     "instagram" : 28,
                     "user_level" : "PROFESSIONAL",
                     "is_follow" : false,
-                    "user_gallery_type" : 0
+                    "userGalleryType" : 0
                 },
                 {
-                    "user_no" : 1,
+                    "userNo" : 1,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_nick_name" : "샤넬라",
                     "user_introduce" : "환상의 5초를 소개해줄께요.",
@@ -349,10 +351,10 @@
                     "instagram" : 28,
                     "user_level" : "GRANDMASTER",
                     "is_follow" : false,
-                    "user_gallery_type" : 0
+                    "userGalleryType" : 0
                 },
                 {
-                    "user_no" : 1,
+                    "userNo" : 1,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_nick_name" : "샤넬라",
                     "user_introduce" : "환상의 5초를 소개해줄께요.",
@@ -361,10 +363,10 @@
                     "instagram" : 28,
                     "user_level" : "PROFESSIONAL",
                     "is_follow" : false,
-                    "user_gallery_type" : 0
+                    "userGalleryType" : 0
                 },
                 {
-                    "user_no" : 1,
+                    "userNo" : 1,
                     "user_profile_img_url" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "user_nick_name" : "샤넬라",
                     "user_introduce" : "환상의 5초를 소개해줄께요.",
@@ -373,78 +375,78 @@
                     "instagram" : 28,
                     "user_level" : "NEWCOMER",
                     "is_follow" : false,
-                    "user_gallery_type" : 0
+                    "userGalleryType" : 0
                 }
             ],
             "packages" : [
                 {
                     "subscribe" : [
                         {
-                            "subscibe_title" : "구독",
-                            "subscribe_price" : "360만원",
-                            "subscribe_option" : "5초콘텐츠10편,크리에이터1명,구독기간1년"
+                            "subscibeTitle" : "구독",
+                            "subscribePrice" : "360만원",
+                            "subscribeOption" : "5초콘텐츠10편,크리에이터1명,구독기간1년"
                         }
                     ],
                     "package" : [
                         {
-                            "package_no" : 1,
-                            "package_title" : "Basic",
-                            "package_price" : "500만원",
-                            "package_option" : "5초콘텐츠10편,크리에이터2명,모델1명(5편)"
+                            "packageNo" : 1,
+                            "packageTitle" : "Basic",
+                            "packagePrice" : "500만원",
+                            "packageOption" : "5초콘텐츠10편,크리에이터2명,모델1명(5편)"
                         },
                         {
-                            "package_no" : 2,
-                            "package_title" : "Standard",
-                            "package_price" : "1,500만원",
-                            "package_option" : "5초콘텐츠20편,크리에이터2명,모델2명(10편)"
+                            "packageNo" : 2,
+                            "packageTitle" : "Standard",
+                            "packagePrice" : "1,500만원",
+                            "packageOption" : "5초콘텐츠20편,크리에이터2명,모델2명(10편)"
                         },
                         {
-                            "package_no" : 3,
-                            "package_title" : "Best",
-                            "package_price" : "5,000만원",
-                            "package_option" : "5초콘텐츠30편,크리에이터3명,모델4명(전편)"
+                            "packageNo" : 3,
+                            "packageTitle" : "Best",
+                            "packagePrice" : "5,000만원",
+                            "packageOption" : "5초콘텐츠30편,크리에이터3명,모델4명(전편)"
                         },
                         {
-                            "package_no" : 4,
-                            "package_title" : "Premium",
-                            "package_price" : "1억원",
-                            "package_option" : "5초콘텐츠30편,60초동영상,크리에이터4명,모델4명(전편)"
+                            "packageNo" : 4,
+                            "packageTitle" : "Premium",
+                            "packagePrice" : "1억원",
+                            "packageOption" : "5초콘텐츠30편,60초동영상,크리에이터4명,모델4명(전편)"
                         }
                     ]
                 }
             ],
             "requests" : [
                 {
-                    "request_no" : 126,
-                    "user_adver_profile_img_url": "https://f.5s.co.kr/s2/v1.0/file/509_small.jpg?dest=contents&type=contents&typeNo=254",
-                    "user_adver_nick_name": "도깨비 손 칼국수",
-                    "user_adver_address": "인천 광역시 성수동 20-3",
-                    "request_tm": "2023.11.17",
-                    "request_status" : 1
+                    "requestNo" : 126,
+                    "userAdverProfileImgUrl": "https://f.5s.co.kr/s2/v1.0/file/509_small.jpg?dest=contents&type=contents&typeNo=254",
+                    "userAdverNickName": "도깨비 손 칼국수",
+                    "userAdverAddress": "인천 광역시 성수동 20-3",
+                    "requestrationTm": "2023.11.17",
+                    "requestStatus" : 1
                 },
                 {
-                    "request_no" : 121,
-                    "user_adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/510_small.jpg?dest=contents&type=contents&typeNo=255",
-                    "user_adver_nick_name": "레고랜드전경",
-                    "user_adver_address": "인천 광역시 성수동 20-3",
-                    "request_tm": "2023.11.15",
-                    "request_status" : 0
+                    "requestNo" : 121,
+                    "userAdverProfileImgUrl": "https://f.5s.co.kr/s1/v1.0/file/510_small.jpg?dest=contents&type=contents&typeNo=255",
+                    "userAdverNickName": "레고랜드전경",
+                    "userAdverAddress": "인천 광역시 성수동 20-3",
+                    "requestrationTm": "2023.11.15",
+                    "requestStatus" : 0
                 },
                 {
-                    "request_no" : 117,
-                    "user_adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-                    "user_adver_nick_name": "수봉카페",
-                    "user_adver_address": "인천 광역시 성수동 20-3",
-                    "request_tm": "2023.11.14",
-                    "request_status" : 0
+                    "requestNo" : 117,
+                    "userAdverProfileImgUrl": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+                    "userAdverNickName": "수봉카페",
+                    "userAdverAddress": "인천 광역시 성수동 20-3",
+                    "requestrationTm": "2023.11.14",
+                    "requestStatus" : 0
                 },
                 {
-                    "request_no" : 113,
-                    "user_adver_profile_img_url": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
-                    "user_adver_nick_name": "한솔양봉",
-                    "user_adver_address": "경기도 포천시 일동면 소야길 123-5",
-                    "request_tm": "2023.11.12",
-                    "request_status" : 1
+                    "requestNo" : 113,
+                    "userAdverProfileImgUrl": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
+                    "user_adver_niuserAdverNickNameck_name": "한솔양봉",
+                    "userAdverAddress": "경기도 포천시 일동면 소야길 123-5",
+                    "requestrationTm": "2023.11.12",
+                    "requestStatus" : 1
                 }
             ]
         }
