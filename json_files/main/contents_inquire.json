@@ -1,6 +1,7 @@
 {
     "code" : 100,
-    "recordCount" : 20,
+    "recordCount": 20,
+    "contentsCount": 245,
     "data" : [
         {
             "contents_no" : 1468,
