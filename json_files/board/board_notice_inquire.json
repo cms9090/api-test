@@ -3,39 +3,39 @@
     "recordCount" : 5,
     "data" : [
         {
-            "notice_no" : 54,
-            "notice_title" : "시스템 점검",
-            "notice_main_text" : "파이브닷은 더 나은 서비스를 위해 시스템 점검을 합니다.\n일시 : 2024.04.12 20:00 ~ 2024.04.13 04:00\n내용\n1. 서버 증설\n2. 스토리지 업그레이드",
-            "notice_created_tm" : "2024-04-10",
-            "notice_newed_state" : true
+            "noticeNo" : 54,
+            "noticeTitle" : "시스템 점검",
+            "noticeMainText" : "파이브닷은 더 나은 서비스를 위해 시스템 점검을 합니다.\n일시 : 2024.04.12 20:00 ~ 2024.04.13 04:00\n내용\n1. 서버 증설\n2. 스토리지 업그레이드",
+            "noticeCreatedTm" : "2024-04-10",
+            "noticeNewedState" : true
         },
         {
-            "notice_no" : 48,
-            "notice_title" : "베스트 콘텐츠",
-            "notice_main_text" : "파이브닷은 더 나은 서비스를 위해 시스템 점검을 합니다.\n일시 : 2024.04.12 20:00 ~ 2024.04.13 04:00\n내용\n1. 서버 증설\n2. 스토리지 업그레이드",
-            "notice_created_tm" : "2024-03-20",
-            "notice_newed_state" : false
+            "noticeNo" : 48,
+            "noticeTitle" : "베스트 콘텐츠",
+            "noticeMainText" : "파이브닷은 더 나은 서비스를 위해 시스템 점검을 합니다.\n일시 : 2024.04.12 20:00 ~ 2024.04.13 04:00\n내용\n1. 서버 증설\n2. 스토리지 업그레이드",
+            "noticeCreatedTm" : "2024-03-20",
+            "noticeNewedState" : false
         },
         {
-            "notice_no" : 47,
-            "notice_title" : "파이브닷 타임",
-            "notice_main_text" : "편리한 서비스 제공을 위해 시스템 점검을 시행합니다.\n시스템 점검시간 동안 일부 기능에 제한이 있을 수 있습니다.\n\n점검시간\n2024.04.15 20:00 ~ 2024.04.16 00:00",
-            "notice_created_tm" : "2024-03-14",
-            "notice_newed_state" : false
+            "noticeNo" : 47,
+            "noticeTitle" : "파이브닷 타임",
+            "noticeMainText" : "편리한 서비스 제공을 위해 시스템 점검을 시행합니다.\n시스템 점검시간 동안 일부 기능에 제한이 있을 수 있습니다.\n\n점검시간\n2024.04.15 20:00 ~ 2024.04.16 00:00",
+            "noticeCreatedTm" : "2024-03-14",
+            "noticeNewedState" : false
         },
         {
-            "notice_no" : 31,
-            "notice_title" : "파이브닷 오픈기념 이벤트",
-            "notice_main_text" : "편리한 서비스 제공을 위해 시스템 점검을 시행합니다.\n시스템 점검시간 동안 일부 기능에 제한이 있을 수 있습니다.\n\n점검시간\n2024.04.15 20:00 ~ 2024.04.16 00:00",
-            "notice_created_tm" : "2024-03-10",
-            "notice_newed_state" : false
+            "noticeNo" : 31,
+            "noticeTitle" : "파이브닷 오픈기념 이벤트",
+            "noticeMainText" : "편리한 서비스 제공을 위해 시스템 점검을 시행합니다.\n시스템 점검시간 동안 일부 기능에 제한이 있을 수 있습니다.\n\n점검시간\n2024.04.15 20:00 ~ 2024.04.16 00:00",
+            "noticeCreatedTm" : "2024-03-10",
+            "noticeNewedState" : false
         },
         {
-            "notice_no" : 17,
-            "notice_title" : "시스템 점검",
-            "notice_main_text" : "편리한 서비스 제공을 위해 시스템 점검을 시행합니다.\n시스템 점검시간 동안 일부 기능에 제한이 있을 수 있습니다.\n\n점검시간\n2024.04.15 20:00 ~ 2024.04.16 00:00",
-            "notice_created_tm" : "2024-02-10",
-            "notice_newed_state" : false
+            "noticeNo" : 17,
+            "noticeTitle" : "시스템 점검",
+            "noticeMainText" : "편리한 서비스 제공을 위해 시스템 점검을 시행합니다.\n시스템 점검시간 동안 일부 기능에 제한이 있을 수 있습니다.\n\n점검시간\n2024.04.15 20:00 ~ 2024.04.16 00:00",
+            "noticeCreatedTm" : "2024-02-10",
+            "noticeNewedState" : false
         }
     ]
 }

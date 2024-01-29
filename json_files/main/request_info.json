@@ -1,0 +1,20 @@
+{
+    "code": 100,
+    "data": [
+        {
+            "reqeusetNo": 117,
+            "userAdverProfileImgUrl": "광고주 이미지 프로필 경로",
+            "userAdverNickName": "수봉카페",
+            "userAdverAddress": "인천광역시 성수동 20-3",
+            "requestTitle": "제작의뢰명2",
+            "requestRegistrationTm": "2023.11.14",
+            "userAdverCategory": "카페",
+            "requestComment": "강남역 1번 출구 인근 카페입니다.\n홍보 동영상 제작의뢰 드립니다.\n주로 메뉴 위주의 영상이었으면 합니다.",
+            "requestOther": "영업시간은 오전 9시부터 밤 10시까지입니다.\n촬영은 영업시간 내에 해 주세요.",
+            "requestCount": 1,
+            "requestKeywords": "얼그레이동안티,뉴욕쌍화차,암스테르담유자차",
+            "requestStatus": "RQP02",
+            "requestStatusName": "크리에이터 지원"
+        }
+    ]
+}
