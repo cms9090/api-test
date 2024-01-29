@@ -1,0 +1,67 @@
+{
+    "code" : 100,
+    "recordCount" : 20,
+    "creatorCount" : 300,
+    "data" : [
+        {
+            "userNo" : 1,
+            "userProfileImgUrl" : "",
+            "userNickName" : "샤넬라",
+            "userIntroduce" : "환상의 5초를 소개해줄께요.",
+            "finishedRequest" : 30,
+            "youtube" : 30,
+            "instagram" : 28,
+            "userLevel" : "NEWCOMER",
+            "isFollow" : false,
+            "userGalleryType" : 0
+        },
+        {
+            "userNo" : 1,
+            "userProfileImgUrl" : "",
+            "userNickName" : "샤넬라",
+            "userIntroduce" : "환상의 5초를 소개해줄께요.",
+            "finishedRequest" : 30,
+            "youtube" : 30,
+            "instagram" : 28,
+            "userLevel" : "NEWCOMER",
+            "isFollow" : false,
+            "userGalleryType" : 0
+        },
+        {
+            "userNo" : 1,
+            "userProfileImgUrl" : "",
+            "userNickName" : "샤넬라",
+            "userIntroduce" : "환상의 5초를 소개해줄께요.",
+            "finishedRequest" : 30,
+            "youtube" : 30,
+            "instagram" : 28,
+            "userLevel" : "NEWCOMER",
+            "isFollow" : false,
+            "userGalleryType" : 0
+        },
+        {
+            "userNo" : 1,
+            "userProfileImgUrl" : "",
+            "userNickName" : "샤넬라",
+            "userIntroduce" : "환상의 5초를 소개해줄께요.",
+            "finishedRequest" : 30,
+            "youtube" : 30,
+            "instagram" : 28,
+            "userLevel" : "NEWCOMER",
+            "isFollow" : false,
+            "userGalleryType" : 0
+        },
+        {
+            "userNo" : 1,
+            "userProfileImgUrl" : "",
+            "userNickName" : "샤넬라",
+            "userIntroduce" : "환상의 5초를 소개해줄께요.",
+            "finishedRequest" : 30,
+            "youtube" : 30,
+            "instagram" : 28,
+            "userLevel" : "NEWCOMER",
+            "isFollow" : false,
+            "userGalleryType" : 0
+        }
+    ]
+}
