@@ -1,7 +1,7 @@
 {
     "fdAppUserSignupResult" : [
         {
-            "userEmail": "hong2@email.com"
+            "userId": "hong2@email.com"
         }
     ]
 }
