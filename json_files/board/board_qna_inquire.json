@@ -1,0 +1,33 @@
+{
+    "code" : 100,
+    "recordCount" : 3,
+    "data" : [
+        {
+            "qnaNo" : 38,
+            "qnaTitle" : "콘텐츠 업로드가 안되요...",
+            "qnaQuestion" : "콘텐츠 업로드가 안되요.\n1080p 영상입니다. 자꾸 등록 오류가 납니다.",
+            "qnaAnswer" : "",
+            "qnaCreatedTm" : "2024.05.30",
+            "qnaAnswerTm" : "",
+            "qnaAnswerRegistrationState" : false
+        },
+        {
+            "qnaNo" : 31,
+            "qnaTitle" : "콘텐츠 업로드가 안되요...",
+            "qnaQuestion" : "콘텐츠 업로드가 안되요.\n1080p 영상입니다. 자꾸 등록 오류가 납니다.",
+            "qnaAnswer" : "콘텐츠의 플레이타임이 5초인지 확인해 주세요.\n파일 확장자는 mp4만 가능합니다.",
+            "qnaCreatedTm" : "2024.04.15",
+            "qnaAnswerTm" : "2024.04.16",
+            "qnaAnswerRegistrationState" : true
+        },
+        {
+            "qnaNo" : 21,
+            "qnaTitle" : "콘텐츠 업로드가 안되요...",
+            "qnaQuestion" : "콘텐츠 업로드가 안되요.\n1080p 영상입니다. 자꾸 등록 오류가 납니다.",
+            "qnaAnswer" : "콘텐츠의 플레이타임이 5초인지 확인해 주세요.\n파일 확장자는 mp4만 가능합니다.",
+            "qnaCreatedTm" : "2024.02.10",
+            "qnaAnswerTm" : "2024.02.11",
+            "qnaAnswerRegistrationState" : true
+        }
+    ]
+}
