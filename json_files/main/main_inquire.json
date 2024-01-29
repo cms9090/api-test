@@ -52,7 +52,7 @@
                     "contentsType" : 0
                 }
             ],
-            "partners" : [
+            "mainPagePartnerList" : [
                 {
                     "userNo" : 64,
                     "userAdverProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
@@ -96,7 +96,7 @@
                     "userGalleryType" : 2
                 }
             ],
-            "contents" : [
+            "mainPageNewCntntsList" : [
                 {
                     "contentsNo" : 1468,
                     "contentsThumbnailImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/1538_small.jpg?dest=contents&type=contents&typeNo=1494350",
@@ -314,7 +314,7 @@
                     "contentsType" : 0
                 }
             ],
-            "creators" : [
+            "mainPageCreatorList" : [
                 {
                     "userNo" : 1,
                     "userProfileImgUrl" : "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
@@ -376,70 +376,74 @@
                     "userGalleryType" : 0
                 }
             ],
-            "packages" : [
+            "mainPagePackageGdsList" : [
                 {
-                    "packageNo" : 1,
+                    "packageNo" : 23,
                     "packageTitle" : "구독",
                     "packagePrice" : "360만원",
                     "packageOption" : "5초콘텐츠10편,크리에이터1명,구독기간1년"
                 },
                 {
-                    "packageNo" : 2,
+                    "packageNo" : 17,
                     "packageTitle" : "Basic",
                     "packagePrice" : "500만원",
                     "packageOption" : "5초콘텐츠10편,크리에이터2명,모델1명(5편)"
                 },
                 {
-                    "packageNo" : 3,
+                    "packageNo" : 1,
                     "packageTitle" : "Standard",
                     "packagePrice" : "1,500만원",
                     "packageOption" : "5초콘텐츠20편,크리에이터2명,모델2명(10편)"
                 },
                 {
-                    "packageNo" : 4,
+                    "packageNo" : 64,
                     "packageTitle" : "Best",
                     "packagePrice" : "5,000만원",
                     "packageOption" : "5초콘텐츠30편,크리에이터3명,모델4명(전편)"
                 },
                 {
-                    "packageNo" : 5,
+                    "packageNo" : 128,
                     "packageTitle" : "Premium",
                     "packagePrice" : "1억원",
                     "packageOption" : "5초콘텐츠30편,60초동영상,크리에이터4명,모델4명(전편)"
                 }
             ],
-            "requests" : [
+            "mainPageFbctnRqstList" : [
                 {
                     "requestNo" : 126,
                     "userAdverProfileImgUrl": "https://f.5s.co.kr/s2/v1.0/file/509_small.jpg?dest=contents&type=contents&typeNo=254",
                     "userAdverNickName": "도깨비 손 칼국수",
                     "userAdverAddress": "인천 광역시 성수동 20-3",
-                    "requestrationTm": "2023.11.17",
-                    "requestStatus" : 1
+                    "requestRegistrationTm": "2023.11.17",
+                    "requestStatus" : "RQP02",
+                    "requestStatusName" : "크리에이터 지원"
                 },
                 {
                     "requestNo" : 121,
                     "userAdverProfileImgUrl": "https://f.5s.co.kr/s1/v1.0/file/510_small.jpg?dest=contents&type=contents&typeNo=255",
                     "userAdverNickName": "레고랜드전경",
                     "userAdverAddress": "인천 광역시 성수동 20-3",
-                    "requestrationTm": "2023.11.15",
-                    "requestStatus" : 0
+                    "requestRegistrationTm": "2023.11.15",
+                    "requestStatus" : "RQP01",
+                    "requestStatusName" : "제작의뢰 요청"
                 },
                 {
                     "requestNo" : 117,
                     "userAdverProfileImgUrl": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "userAdverNickName": "수봉카페",
                     "userAdverAddress": "인천 광역시 성수동 20-3",
-                    "requestrationTm": "2023.11.14",
-                    "requestStatus" : 0
+                    "requestRegistrationTm": "2023.11.14",
+                    "requestStatus" : "RQP01",
+                    "requestStatusName" : "제작의뢰 요청"
                 },
                 {
                     "requestNo" : 113,
                     "userAdverProfileImgUrl": "https://f.5s.co.kr/s1/v1.0/file/511_small.jpg?dest=contents&type=contents&typeNo=258",
                     "userAdverNickName": "한솔양봉",
                     "userAdverAddress": "경기도 포천시 일동면 소야길 123-5",
-                    "requestrationTm": "2023.11.12",
-                    "requestStatus" : 1
+                    "requestRegistrationTm": "2023.11.12",
+                    "requestStatus" : "RQP02",
+                    "requestStatusName" : "크리에이터 지원"
                 }
             ]
         }
