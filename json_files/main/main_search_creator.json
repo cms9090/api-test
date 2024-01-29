@@ -1,21 +1,20 @@
 {
     "code" : 100,
-    "count" : 20,
-    "contents_count" : 236,
-    "creator_count" : 10,
-    "request_count" : 21,
+    "recordCount" : 20,
+    "contentsCount" : 236,
+    "creatorCount" : 10,
+    "requestCount" : 21,
     "data" : [
         {
-            "user_no": 12,
-            "user_profile_img_url": "프로필 이미지 경로",
-            "nick_name": "벡스터",
-            "finished_request": 30,
-            "sns_data": [
-              {
-                "youtube": 30,
-                "instagram": 28
-              }
-            ]
+            "userNo": 12,
+            "userProfileImgUrl": "프로필 이미지 경로",
+            "userNickName": "벡스터",
+            "finishedRequest": 30,
+            "youtube": 30,
+            "instagram": 28,
+            "userLevel": "NEWCOMER",
+            "isFollow": false,
+            "userGalleryType": 0
         }
     ]
 }
