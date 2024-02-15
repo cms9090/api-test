@@ -1,0 +1,18 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppUserSubscribeRegResult": [
+                {
+                    "eventCode": "",
+                    "depositCode": "RA12",
+                    "eventCodeName": null,
+                    "deposit": "3,600,000",
+                    "originCost": "3,600,000",
+                    "eventCodeDiscount": null
+                }
+            ]
+        }
+    }
+}

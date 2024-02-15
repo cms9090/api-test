@@ -1,0 +1,18 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppUserSubscribeRegResult": [
+                {
+                    "eventCode": "BORAMPEOPLE",
+                    "depositCode": "RA12",
+                    "eventCodeName": "보람상조 제휴",
+                    "deposit": "2,400,000",
+                    "originCost": "3,600,000",
+                    "eventCodeDiscount": "33%"
+                }
+            ]
+        }
+    }
+}

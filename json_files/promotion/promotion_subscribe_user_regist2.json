@@ -1,0 +1,18 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppUserSubscribeRegResult": [
+                {
+                    "eventCode": "FIVEDOTOPEN",
+                    "depositCode": "RA12",
+                    "eventCodeName": "파이브닷 그랜드오픈",
+                    "deposit": "1,800,000",
+                    "originCost": "3,600,000",
+                    "eventCodeDiscount": "50%"
+                }
+            ]
+        }
+    }
+}
