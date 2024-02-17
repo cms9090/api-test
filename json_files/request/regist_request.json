@@ -1,0 +1,14 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppFbctnRqstRegResult": [
+                {
+                    "depositCode": "QN93",
+                    "userId": "hong@email.com"
+                }
+            ]
+        }
+    }
+}
