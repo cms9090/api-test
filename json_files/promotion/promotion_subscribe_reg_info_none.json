@@ -1,0 +1,18 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppUserSubscribeRegResult" : [
+                {
+                    "eventCode": "",
+                    "eventCodeName": "",
+                    "eventCodeDiscount": "",
+                    "depositCode": "",
+                    "deposit": "",
+                    "originCost": ""
+                }
+            ]
+        }
+    }
+}
