@@ -1,0 +1,18 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppUserSubscribeRegResult" : [
+                {
+                    "eventCode": "FIVEDOTOPEN",
+                    "eventCodeName": "파이브닷 그랜드오픈",
+                    "eventCodeDiscount": "20%",
+                    "depositCode": "PE72",
+                    "deposit": "2,880,000",
+                    "originCost": "3,600,000"
+                }
+            ]
+        }
+    }
+}
