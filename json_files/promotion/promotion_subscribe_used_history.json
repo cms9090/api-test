@@ -1,0 +1,53 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppUsedSubscRqstHistory" : [
+                {
+                    "usedSubscRqstNo": 61,
+                    "usedSubscRqstNm": "업장 홍보영상",
+                    "usedSubscRqstVidCnt": "1",
+                    "usedSubscRqstDd": "2024.08.31",
+                    "usedSubscRqstStts": "제작의뢰"
+                },
+                {
+                    "usedSubscRqstNo": 35,
+                    "usedSubscRqstNm": "신메뉴 홍보",
+                    "usedSubscRqstVidCnt": "2",
+                    "usedSubscRqstDd": "2024.07.31",
+                    "usedSubscRqstStts": "크리에이터 지원"
+                },
+                {
+                    "usedSubscRqstNo": 25,
+                    "usedSubscRqstNm": "신메뉴",
+                    "usedSubscRqstVidCnt": "3",
+                    "usedSubscRqstDd": "2024.06.30",
+                    "usedSubscRqstStts": "의뢰완료"
+                },
+                {
+                    "usedSubscRqstNo": 21,
+                    "usedSubscRqstNm": "업장 홍보영상",
+                    "usedSubscRqstVidCnt": "1",
+                    "usedSubscRqstDd": "2024.05.17",
+                    "usedSubscRqstStts": "의뢰완료"
+                },
+                {
+                    "usedSubscRqstNo": 12,
+                    "usedSubscRqstNm": "신메뉴 홍보",
+                    "usedSubscRqstVidCnt": "2",
+                    "usedSubscRqstDd": "2024.03.05",
+                    "usedSubscRqstStts": "의뢰완료"
+                },
+                {
+                    "usedSubscRqstNo": 7,
+                    "usedSubscRqstNm": "신메뉴",
+                    "usedSubscRqstVidCnt": "3",
+                    "usedSubscRqstDd": "2024.02.22",
+                    "usedSubscRqstStts": "의뢰완료"
+                }
+            ],
+            "recordCount": 6
+        }
+    }
+}
