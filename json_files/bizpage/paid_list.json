@@ -1,0 +1,76 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppPaidRqstList" : [
+                {
+                    "paidRqstNo": 87,
+                    "paidRqstCreator": "샤넬라",
+                    "paidRqstNm": "업장 홍보영상",
+                    "paidRqstPrice": "500,000",
+                    "paidRqstVidCnt": "1",
+                    "paidRqstDd": "2024.08.31",
+                    "paidRqstStts": "제작의뢰"
+                },
+                {
+                    "paidRqstNo": 71,
+                    "paidRqstCreator": "백스터",
+                    "usedSubscRqstNm": "신메뉴 홍보",
+                    "usedSubscRqstVidCnt": "2",
+                    "usedSubscRqstDd": "2024.07.31",
+                    "usedSubscRqstStts": "크리에이터 지원"
+                },
+                {
+                    "paidRqstNo": 70,
+                    "paidRqstCreator": "구름을 벗어난 달처럼",
+                    "usedSubscRqstNm": "여름 행사 이벤트",
+                    "usedSubscRqstVidCnt": "5",
+                    "usedSubscRqstDd": "2024.06.30",
+                    "usedSubscRqstStts": "의뢰완료"
+                },
+                {
+                    "paidRqstNo": 51,
+                    "paidRqstCreator": "에스더",
+                    "usedSubscRqstNm": "새학기 이벤트",
+                    "usedSubscRqstVidCnt": "1",
+                    "usedSubscRqstDd": "2024.05.17",
+                    "usedSubscRqstStts": "의뢰완료"
+                },
+                {
+                    "paidRqstNo": 43,
+                    "paidRqstCreator": "콘텐츠 고수",
+                    "usedSubscRqstNm": "설날 이벤트",
+                    "usedSubscRqstVidCnt": "2",
+                    "usedSubscRqstDd": "2024.03.05",
+                    "usedSubscRqstStts": "의뢰완료"
+                },
+                {
+                    "paidRqstNo": 32,
+                    "paidRqstCreator": "샤넬라",
+                    "usedSubscRqstNm": "겨울 이벤트 영상",
+                    "usedSubscRqstVidCnt": "3",
+                    "usedSubscRqstDd": "2024.02.11",
+                    "usedSubscRqstStts": "의뢰완료"
+                },
+                {
+                    "paidRqstNo": 11,
+                    "paidRqstCreator": "샤넬라",
+                    "usedSubscRqstNm": "업장 홍보영상",
+                    "usedSubscRqstVidCnt": "1",
+                    "usedSubscRqstDd": "2023.12.17",
+                    "usedSubscRqstStts": "의뢰완료"
+                },
+                {
+                    "paidRqstNo": 6,
+                    "paidRqstCreator": "샤넬라",
+                    "usedSubscRqstNm": "신메뉴 홍보",
+                    "usedSubscRqstVidCnt": "2",
+                    "usedSubscRqstDd": "2023.12.03",
+                    "usedSubscRqstStts": "의뢰완료"
+                }
+            ],
+            "recordCount": 8
+        }
+    }
+}
