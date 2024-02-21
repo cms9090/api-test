@@ -1,0 +1,70 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppNotificationList" : [
+                {
+                    "notificationList" : [
+                        {
+                            "notificationNo": 99,
+                            "notificationTitle": "신규댓글",
+                            "notificationText": "우주최강막강미녀님이 오로라쉐이크 영상에 댓글을 남겼습니다.",
+                            "notificationDd": "2024.08.31",
+                            "notificationUserProfileImg": "/uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg"
+                        },
+                        {
+                            "usedSubscRqstNo": 87,
+                            "usedSubscRqstNm": "수정요청",
+                            "usedSubscRqstVidCnt": "2",
+                            "usedSubscRqstDd": "2024.07.31",
+                            "usedSubscRqstStts": "크리에이터 지원",
+                            "notificationUserProfileImg": "/uploadFiveDotFile/fdUser/ceced68ea5ee46d1adcf45d27f98c05d.jfif"
+                        },
+                        {
+                            "usedSubscRqstNo": 53,
+                            "usedSubscRqstNm": "크리에이터 선택",
+                            "usedSubscRqstVidCnt": "3",
+                            "usedSubscRqstDd": "2024.06.30",
+                            "usedSubscRqstStts": "의뢰완료",
+                            "notificationUserProfileImg": "/uploadFiveDotFile/fdUser/2af99ff04aab4be1902cf61f2ddc42f8.jpg"
+                        },
+                        {
+                            "usedSubscRqstNo": 21,
+                            "usedSubscRqstNm": "전문 크리에이터 등급 상승",
+                            "usedSubscRqstVidCnt": "1",
+                            "usedSubscRqstDd": "2024.05.17",
+                            "usedSubscRqstStts": "의뢰완료",
+                            "notificationUserProfileImg": "/uploadFiveDotFile/fdUser/4c5604ba741f43528acc5e8a4bd03c7c.png"
+                        },
+                        {
+                            "usedSubscRqstNo": 12,
+                            "usedSubscRqstNm": "대금 정산 완료",
+                            "usedSubscRqstVidCnt": "2",
+                            "usedSubscRqstDd": "2024.03.05",
+                            "usedSubscRqstStts": "의뢰완료",
+                            "notificationUserProfileImg": "/uploadFiveDotFile/fdUser/1d10283fd50548a3b259f6efdc4cda46.jfif"
+                        },
+                        {
+                            "usedSubscRqstNo": 7,
+                            "usedSubscRqstNm": "크리에이터 선택",
+                            "usedSubscRqstVidCnt": "3",
+                            "usedSubscRqstDd": "2024.02.22",
+                            "usedSubscRqstStts": "의뢰완료",
+                            "notificationUserProfileImg": "/uploadFiveDotFile/fdUser/594fd40680394d37b643417b212431d9.jfif"
+                        },
+                        {
+                            "usedSubscRqstNo": 1,
+                            "usedSubscRqstNm": "전문 크리에이터로 승급",
+                            "usedSubscRqstVidCnt": "3",
+                            "usedSubscRqstDd": "2024.02.22",
+                            "usedSubscRqstStts": "의뢰완료",
+                            "notificationUserProfileImg": "/uploadFiveDotFile/fdUser/f6f029b52bd640a3b46d61a1a64a1d23.jpeg"
+                        }
+                    ],
+                    "recordCount": 7
+                }
+            ]
+        }
+    }
+}
