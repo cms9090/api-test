@@ -31,6 +31,7 @@
                     "cntntsRqstNo": 71,
                     "cntntsRqstNm": "본점 홍보영상",
                     "cntntsRqstDt": "2024.08.31",
+                    "cntntsRqstEntryDt": "2024.09.05",
                     "cntntsRqstSttsCode": "RQP01",
                     "cntntsRqstSttsName": "제작요청",
                     "cntntsRqstPromotionType": "G"
@@ -39,6 +40,7 @@
                     "cntntsRqstNo": 61,
                     "cntntsRqstNm": "신메뉴 홍보",
                     "cntntsRqstDt": "2024.07.31",
+                    "cntntsRqstEntryDt": "2024.08.12",
                     "cntntsRqstSttsCode": "RQP02",
                     "cntntsRqstSttsName": "크리에이터 지원",
                     "cntntsRqstPromotionType": "S"
@@ -47,6 +49,7 @@
                     "cntntsRqstNo": 38,
                     "cntntsRqstNm": "여름 행사 이벤트",
                     "cntntsRqstDt": "2024.06.30",
+                    "cntntsRqstEntryDt": "2024.07.05",
                     "cntntsRqstSttsCode": "RQP18",
                     "cntntsRqstSttsName": "수락대기",
                     "cntntsRqstPromotionType": "P"
@@ -55,6 +58,7 @@
                     "cntntsRqstNo": 26,
                     "cntntsRqstNm": "새학기 이벤트",
                     "cntntsRqstDt": "2024.05.17",
+                    "cntntsRqstEntryDt": "2024.05.23",
                     "cntntsRqstSttsCode": "RQP05",
                     "cntntsRqstSttsName": "제작 중",
                     "cntntsRqstPromotionType": "G"
@@ -63,6 +67,7 @@
                     "cntntsRqstNo": 23,
                     "cntntsRqstNm": "설날 이벤트",
                     "cntntsRqstDt": "2024.03.05",
+                    "cntntsRqstEntryDt": "2024.03.17",
                     "cntntsRqstSttsCode": "RQP19",
                     "cntntsRqstSttsName": "검수 중",
                     "cntntsRqstPromotionType": "S"
@@ -71,6 +76,7 @@
                     "cntntsRqstNo": 15,
                     "cntntsRqstNm": "겨울 이벤트 영상",
                     "cntntsRqstDt": "2024.03.05",
+                    "cntntsRqstEntryDt": "2024.03.11",
                     "cntntsRqstSttsCode": "RQP12",
                     "cntntsRqstSttsName": "의뢰완료",
                     "cntntsRqstPromotionType": "P"
