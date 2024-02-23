@@ -50,7 +50,7 @@
                     "cntntsRqstNm": "여름 행사 이벤트",
                     "cntntsRqstDt": "2024.06.30",
                     "cntntsRqstEntryDt": "2024.07.05",
-                    "cntntsRqstSttsCode": "RQP18",
+                    "cntntsRqstSttsCode": "RQP03",
                     "cntntsRqstSttsName": "수락대기",
                     "cntntsRqstPromotionType": "P"
                 },
@@ -68,7 +68,7 @@
                     "cntntsRqstNm": "설날 이벤트",
                     "cntntsRqstDt": "2024.03.05",
                     "cntntsRqstEntryDt": "2024.03.17",
-                    "cntntsRqstSttsCode": "RQP19",
+                    "cntntsRqstSttsCode": "RQP08",
                     "cntntsRqstSttsName": "검수 중",
                     "cntntsRqstPromotionType": "S"
                 },
