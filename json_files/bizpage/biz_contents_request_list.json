@@ -1,0 +1,82 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppWaitingPaymentRqstList" : [             
+                {
+                    "cntntsRqstNo": 77,
+                    "cntntsRqstNm": "분점 홍보영상",
+                    "cntntsRqstDd": "2024.09.01",
+                    "cntntsRqstSttsCode": "RQP04",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "G",
+                    "cntntsRqstPrice" : "500,000원",
+                    "cntntsRqstDepositCode" : "RF12"
+                },
+                {
+                    "cntntsRqstNo": 69,
+                    "cntntsRqstNm": "겨울 콜라보 이벤트 영상",
+                    "cntntsRqstDd": "2024.08.29",
+                    "cntntsRqstSttsCode": "RQP04",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "P",
+                    "cntntsRqstPrice" : "1,500,000원",
+                    "cntntsRqstDepositCode" : "SU03"
+                }
+            ],
+            "waitingPaymentRecordCount": 2,
+            "fdAppCntntsRqstList" : [
+                {
+                    "cntntsRqstNo": 71,
+                    "cntntsRqstNm": "본점 홍보영상",
+                    "cntntsRqstDd": "2024.08.31",
+                    "cntntsRqstSttsCode": "RQP01",
+                    "cntntsRqstSttsName": "제작요청",
+                    "cntntsRqstPromotionType": "G"
+                },
+                {
+                    "cntntsRqstNo": 61,
+                    "cntntsRqstNm": "신메뉴 홍보",
+                    "cntntsRqstDd": "2024.07.31",
+                    "cntntsRqstSttsCode": "RQP02",
+                    "cntntsRqstSttsName": "크리에이터 지원",
+                    "cntntsRqstPromotionType": "S"
+                },
+                {
+                    "cntntsRqstNo": 38,
+                    "cntntsRqstNm": "여름 행사 이벤트",
+                    "cntntsRqstDd": "2024.06.30",
+                    "cntntsRqstSttsCode": "RQP18",
+                    "cntntsRqstSttsName": "수락대기",
+                    "cntntsRqstPromotionType": "P"
+                },
+                {
+                    "cntntsRqstNo": 26,
+                    "cntntsRqstNm": "새학기 이벤트",
+                    "cntntsRqstDd": "2024.05.17",
+                    "cntntsRqstSttsCode": "RQP05",
+                    "cntntsRqstSttsName": "제작 중",
+                    "cntntsRqstPromotionType": "G"
+                },
+                {
+                    "cntntsRqstNo": 23,
+                    "cntntsRqstNm": "설날 이벤트",
+                    "cntntsRqstDd": "2024.03.05",
+                    "cntntsRqstSttsCode": "RQP19",
+                    "cntntsRqstSttsName": "검수 중",
+                    "cntntsRqstPromotionType": "S"
+                },
+                {
+                    "cntntsRqstNo": 15,
+                    "cntntsRqstNm": "겨울 이벤트 영상",
+                    "cntntsRqstDd": "2024.03.05",
+                    "cntntsRqstSttsCode": "RQP12",
+                    "cntntsRqstSttsName": "의뢰완료",
+                    "cntntsRqstPromotionType": "P"
+                }
+            ],
+            "cntntsRqstRecordCount": 6
+        }
+    }
+}

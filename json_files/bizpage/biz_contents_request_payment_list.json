@@ -1,0 +1,67 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppWaitingPaymentRqstList" : [             
+                {
+                    "cntntsRqstNo": 9,
+                    "cntntsRqstNm": "업장 홍보영상",
+                    "cntntsRqstDd": "2024.03.05",
+                    "cntntsRqstSttsCode": "RQP04",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "G"
+                },
+                {
+                    "cntntsRqstNo": 15,
+                    "cntntsRqstNm": "겨울 이벤트 영상",
+                    "cntntsRqstDd": "2024.03.05",
+                    "cntntsRqstSttsCode": "제작의뢰요청",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "P"
+                },
+                {
+                    "cntntsRqstNo": 23,
+                    "cntntsRqstNm": "설날 이벤트",
+                    "cntntsRqstDd": "2024.03.05",
+                    "cntntsRqstSttsCode": "의뢰완료",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "S"
+                },
+                {
+                    "cntntsRqstNo": 26,
+                    "cntntsRqstNm": "새학기 이벤트",
+                    "cntntsRqstDd": "2024.05.17",
+                    "cntntsRqstSttsCode": "의뢰완료",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "G"
+                },
+                {
+                    "cntntsRqstNo": 38,
+                    "cntntsRqstNm": "여름 행사 이벤트",
+                    "cntntsRqstDd": "2024.06.30",
+                    "cntntsRqstSttsCode": "의뢰완료",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "P"
+                },
+                {
+                    "cntntsRqstNo": 61,
+                    "cntntsRqstNm": "신메뉴 홍보",
+                    "cntntsRqstDd": "2024.07.31",
+                    "cntntsRqstSttsCode": "크리에이터 지원",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "S"
+                },
+                {
+                    "cntntsRqstNo": 71,
+                    "cntntsRqstNm": "업장 홍보영상",
+                    "cntntsRqstDd": "2024.08.31",
+                    "cntntsRqstSttsCode": "제작의뢰",
+                    "cntntsRqstSttsName": "결제대기",
+                    "cntntsRqstPromotionType": "G"
+                }
+            ],
+            "recordCount": 7
+        }
+    }
+}
