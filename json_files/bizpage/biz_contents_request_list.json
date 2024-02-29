@@ -5,7 +5,7 @@
         "items": {
             "fdAppWaitingPaymentRqstList" : [             
                 {
-                    "cntntsRqstNo": 43,
+                    "cntntsRqstNo": 77,
                     "cntntsRqstNm": "분점 홍보영상",
                     "cntntsRqstDt": "2024.09.01",
                     "cntntsRqstSttsCode": "RQP04",
@@ -28,8 +28,8 @@
             "waitingPaymentRecordCount": 2,
             "fdAppCntntsRqstList" : [
                 {
-                    "cntntsRqstNo": 86,
-                    "cntntsRqstNm": "회사홍보영상제작",
+                    "cntntsRqstNo": 43,
+                    "cntntsRqstNm": "전체테스트",
                     "cntntsRqstDt": "2024.02.28",
                     "cntntsRqstEntryDt": "2024.09.05",
                     "cntntsRqstSttsCode": "RQP02",
