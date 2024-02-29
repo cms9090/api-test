@@ -28,12 +28,12 @@
             "waitingPaymentRecordCount": 2,
             "fdAppCntntsRqstList" : [
                 {
-                    "cntntsRqstNo": 71,
-                    "cntntsRqstNm": "본점 홍보영상",
-                    "cntntsRqstDt": "2024.08.31",
+                    "cntntsRqstNo": 86,
+                    "cntntsRqstNm": "회사홍보영상제작",
+                    "cntntsRqstDt": "2024.02.28",
                     "cntntsRqstEntryDt": "2024.09.05",
-                    "cntntsRqstSttsCode": "RQP01",
-                    "cntntsRqstSttsName": "제작요청",
+                    "cntntsRqstSttsCode": "RQP02",
+                    "cntntsRqstSttsName": "크리에이터 지원",
                     "cntntsRqstPromotionType": "G"
                 },
                 {

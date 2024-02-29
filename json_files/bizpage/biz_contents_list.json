@@ -1,0 +1,35 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppGalleryList" : [             
+                {
+                    "contentsNo": 12,
+                    "contentsThumbnailImgUrl": "",
+                    "contentsUrl": "",
+                    "contentsExt": "",
+                    "contentsWidthSize": "",
+                    "contentsHeightSize": "",
+                    "contentsLength": "",
+                    "userNo": "",
+                    "userNickName": "",
+                    "userProfileImgUrl": "",
+                    "contentsTitle": "",
+                    "contentsPost": "",
+                    "contentsKeywords": "",
+                    "contentsLocations": "",
+                    "likeCount": "",
+                    "shareCount": "",
+                    "isLike": "",
+                    "isShare": "",
+                    "contentsAdStatus": "",
+                    "contentsType": "",
+                    "contentsLot": "",
+                    "contentsLat": ""
+                }
+            ],
+            "fdAppGalleryListCount": 1
+        }
+    }
+}
