@@ -1,0 +1,157 @@
+{
+    "data": {
+        "items": {
+            "requestType": "G",
+            "requestState": "RQP12",
+            "fdAppFbctnRqstBrdDtlInfo": [
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP02",
+                    "requestWidgetOwner": 0,
+                    "requestWidgetTm": "2024-02-23",
+                    "text": "",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP02",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-26",
+                    "text": "제작의뢰진행보드 테스트[건들지말것]",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP03",
+                    "requestWidgetOwner": 0,
+                    "requestWidgetTm": "2024-02-26",
+                    "text": "징키즈칸",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP05",
+                    "requestWidgetOwner": 0,
+                    "requestWidgetTm": "2024-02-26",
+                    "text": "징키즈칸",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP15",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-27",
+                    "text": "이거 과연 잘 되고 있는건가요??",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP15",
+                    "requestWidgetOwner": 0,
+                    "requestWidgetTm": "2024-02-27",
+                    "text": "나도 몰라 너무 복잡해... ",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP15",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-27",
+                    "text": "이거 정말로 잘 되고 있는건가요??",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP15",
+                    "requestWidgetOwner": 0,
+                    "requestWidgetTm": "2024-02-27",
+                    "text": "정말 모르겠어 너무 복잡하다고... ",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP08",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-28",
+                    "text": "",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP08",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-28",
+                    "text": "",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP08",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-28",
+                    "text": "",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP08",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-28",
+                    "text": "",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP08",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-28",
+                    "text": "",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP08",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-28",
+                    "text": "",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP08",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-28",
+                    "text": "",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP09",
+                    "requestWidgetOwner": 0,
+                    "requestWidgetTm": "2024-02-29",
+                    "text": "뭐 이따구야 다시 해",
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP10",
+                    "requestWidgetOwner": 0,
+                    "requestWidgetTm": "2024-02-29",
+                    "text": null,
+                    "requestDownload": ""
+                },
+                {
+                    "requestVideoUrl": "",
+                    "WidgetState": "RQP12",
+                    "requestWidgetOwner": 1,
+                    "requestWidgetTm": "2024-02-29",
+                    "text": "2024-03-10",
+                    "requestDownload": ""
+                }
+            ],
+            "requestTarget": "hong2@naver.com"
+        }
+    },
+    "resultCode": 100,
+    "resultMsg": "SUCCESS"
+}
