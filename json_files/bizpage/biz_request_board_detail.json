@@ -15,7 +15,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP02",
-                    "requestWidgetOwner": 1,
+                    "requestWidgetOwner": 0,
                     "requestWidgetTm": "2024-02-26",
                     "text": "제작의뢰진행보드 테스트[건들지말것]",
                     "requestDownload": ""
@@ -23,7 +23,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP03",
-                    "requestWidgetOwner": 0,
+                    "requestWidgetOwner": 1,
                     "requestWidgetTm": "2024-02-26",
                     "text": "징키즈칸",
                     "requestDownload": ""
@@ -31,7 +31,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP05",
-                    "requestWidgetOwner": 1,
+                    "requestWidgetOwner": 0,
                     "requestWidgetTm": "2024-02-26",
                     "text": "징키즈칸",
                     "requestDownload": ""
@@ -39,7 +39,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP15",
-                    "requestWidgetOwner": 1,
+                    "requestWidgetOwner": 0,
                     "requestWidgetTm": "2024-02-27",
                     "text": "이거 과연 잘 되고 있는건가요??",
                     "requestDownload": ""
@@ -47,7 +47,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP15",
-                    "requestWidgetOwner": 0,
+                    "requestWidgetOwner": 1,
                     "requestWidgetTm": "2024-02-27",
                     "text": "나도 몰라 너무 복잡해... ",
                     "requestDownload": ""
@@ -55,7 +55,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP15",
-                    "requestWidgetOwner": 1,
+                    "requestWidgetOwner": 0,
                     "requestWidgetTm": "2024-02-27",
                     "text": "이거 정말로 잘 되고 있는건가요??",
                     "requestDownload": ""
@@ -63,7 +63,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP15",
-                    "requestWidgetOwner": 0,
+                    "requestWidgetOwner": 1,
                     "requestWidgetTm": "2024-02-27",
                     "text": "정말 모르겠어 너무 복잡하다고... ",
                     "requestDownload": ""
