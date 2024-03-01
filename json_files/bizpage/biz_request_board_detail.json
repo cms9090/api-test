@@ -119,7 +119,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP08",
-                    "requestWidgetOwner": 1,
+                    "requestWidgetOwner": 0,
                     "requestWidgetTm": "2024-02-28",
                     "text": "",
                     "requestDownload": ""
@@ -127,7 +127,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP09",
-                    "requestWidgetOwner": 0,
+                    "requestWidgetOwner": 1,
                     "requestWidgetTm": "2024-02-29",
                     "text": "뭐 이따구야 다시 해",
                     "requestDownload": ""
@@ -143,7 +143,7 @@
                 {
                     "requestVideoUrl": "",
                     "WidgetState": "RQP12",
-                    "requestWidgetOwner": 1,
+                    "requestWidgetOwner": 0,
                     "requestWidgetTm": "2024-02-29",
                     "text": "2024-03-10",
                     "requestDownload": ""
