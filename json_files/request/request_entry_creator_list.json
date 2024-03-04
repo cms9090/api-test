@@ -1,0 +1,59 @@
+{
+    "data": {
+        "items": {
+            "FbctnRqstSupportPeriod": " 2024-03-03",
+            "fdAppUserFbctnRqstSupportList": [
+                {
+                    "youtube": 0,
+                    "finishedRequest": 1,
+                    "snsAccntYoutube": "^^",
+                    "userGalleryType": 0,
+                    "userNo": 195,
+                    "instagram": 0,
+                    "userId": "jing@googloe.com",
+                    "snsAccntInstgrm": "ㅠㅠ",
+                    "isFollow": 0,
+                    "userLevel": "NEWCOMER",
+                    "userProfileImgUrl": "/uploadFiveDotFile/fdUser/58c9541da9f44d0e9a419d58e422c1d8.png",
+                    "userNickName": "징키즈칸",
+                    "userRole": 2,
+                    "userIntroduce": "징키즈칸이시다!!"
+                },
+                {
+                    "youtube": 0,
+                    "finishedRequest": 32,
+                    "snsAccntYoutube": "^^",
+                    "userGalleryType": 0,
+                    "userNo": 195,
+                    "instagram": 0,
+                    "userId": "jing@googloe.com",
+                    "snsAccntInstgrm": "ㅠㅠ",
+                    "isFollow": 0,
+                    "userLevel": "NEWCOMER",
+                    "userProfileImgUrl": "/uploadFiveDotFile/fdUser/58c9541da9f44d0e9a419d58e422c1d8.png",
+                    "userNickName": "징키즈칸",
+                    "userRole": 2,
+                    "userIntroduce": "징키즈칸이시다!!"
+                },
+                {
+                    "youtube": 0,
+                    "finishedRequest": 1,
+                    "snsAccntYoutube": "^^",
+                    "userGalleryType": 0,
+                    "userNo": 195,
+                    "instagram": 0,
+                    "userId": "jing@googloe.com",
+                    "snsAccntInstgrm": "ㅠㅠ",
+                    "isFollow": 0,
+                    "userLevel": "NEWCOMER",
+                    "userProfileImgUrl": "/uploadFiveDotFile/fdUser/58c9541da9f44d0e9a419d58e422c1d8.png",
+                    "userNickName": "징키즈칸",
+                    "userRole": 2,
+                    "userIntroduce": "징키즈칸이시다!!"
+                }
+            ]
+        }
+    },
+    "resultCode": 100,
+    "resultMsg": "SUCCESS"
+}
