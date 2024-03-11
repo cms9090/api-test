@@ -1,0 +1,71 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppUserAlarmList" : [             
+                {
+                    "alarmSn": 77,
+                    "alarmTitle": "[파이브닷] 신규 댓글 등록",
+                    "alarmCn": "[오로라쉐이크] 콘텐츠에 [우주최강막강미녀]님이 댓글을 등록했습니다.",
+                    "alarmRegDt": "2024-06-30",
+                    "alarmReadYn" : "N",
+                    "userState": 1,
+                    "sendUserProfileImg": "프로필 이미지 경로",
+                    "alarmDiv": "A"
+                },
+                {
+                    "alarmSn": 69,
+                    "alarmTitle": "[파이브닷] 콘텐츠 수정요청",
+                    "alarmCn": "[홍보영상 제작의뢰] 1번 콘텐츠의 수정요청이 접수되었습니다. 수정사항을 확인해 주세요.",
+                    "alarmRegDt": "2024.05.11",
+                    "alarmReadYn" : "N",
+                    "userState": 0,
+                    "sendUserProfileImg":"프로필 이미지 경로",
+                    "alarmDiv": "A"
+                },
+                {
+                    "alarmSn": 58,
+                    "alarmTitle": "[파이브닷] 문의사항 답변도착",
+                    "alarmCn": "[홍보영상 제작의뢰] 문의사항에 대한 답변이 도착했습니다. 확인해 주세요.",
+                    "alarmRegDt": "2024.05.09",
+                    "alarmReadYn" : "Y",
+                    "userState": 0,
+                    "sendUserProfileImg":"프로필 이미지 경로",
+                    "alarmDiv": "A"
+                },
+                {
+                    "alarmSn": 56,
+                    "alarmTitle": "[파이브닷] 제작의뢰 수락요청",
+                    "alarmCn": "[홍보영상 제작의뢰] 광고주가 크리에이터님에게 제작의뢰를 요청하였습니다. 수락여부를 선택해 주세요.",
+                    "alarmRegDt": "2024.04.30",
+                    "alarmReadYn" : "Y",
+                    "userState": 0,
+                    "sendUserProfileImg":"프로필 이미지 경로",
+                    "alarmDiv": "A"
+                },
+                {
+                    "alarmSn": 44,
+                    "alarmTitle": "[파이브닷] 결제가 완료되었습니다.",
+                    "alarmCn": "[영상작업] 결제가 완료되었습니다. 결제내역 또는 콘텐츠 의뢰 현황을 확인해 주세요.",
+                    "alarmRegDt": "2024.03.12",
+                    "alarmReadYn" : "Y",
+                    "userState": 1,
+                    "sendUserProfileImg":"프로필 이미지 경로",
+                    "alarmDiv": "A"
+                },
+                {
+                    "alarmSn": 31,
+                    "alarmTitle": "[파이브닷] 전문 크리에이터 승급",
+                    "alarmCn": "전문 크리에이터로 승급하였습니다. 마이지갑을 등록하시고 제작의뢰에 지원해 콘텐츠 제작과 수익을 창출하세요.",
+                    "alarmRegDt": "2024.03.01",
+                    "alarmReadYn" : "Y",
+                    "userState": 0,
+                    "sendUserProfileImg":"프로필 이미지 경로",
+                    "alarmDiv": "A"
+                }
+            ],
+            "fdAppUserAlarmListRecordCount": 6
+        }
+    }
+}
