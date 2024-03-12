@@ -1,0 +1,17 @@
+{
+    "resultCode": 100,
+    "resultMsg": "SUCCESS",
+    "data": {
+        "items": {
+            "fdAppUserInfo" : [             
+                {
+                    "userID": "5dev@5s.co.kr",
+                    "userLoginType": "kakao",
+                    "userRegDt": "2024-03-20",
+                    "userTelNo": "01012341234",
+                    "userNm": "홍길동"
+                }
+            ]
+        }
+    }
+}
