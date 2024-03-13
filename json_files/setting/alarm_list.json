@@ -11,7 +11,7 @@
                     "alarmRegDt": "2024-06-30",
                     "alarmReadYn" : "N",
                     "userState": 1,
-                    "sendUserProfileImg": "uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
+                    "sendUserProfileImg": "/uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
                     "alarmDiv": "A"
                 },
                 {
@@ -21,7 +21,7 @@
                     "alarmRegDt": "2024.05.11",
                     "alarmReadYn" : "N",
                     "userState": 0,
-                    "sendUserProfileImg":"uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
+                    "sendUserProfileImg":"/uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
                     "alarmDiv": "A"
                 },
                 {
@@ -31,7 +31,7 @@
                     "alarmRegDt": "2024.05.09",
                     "alarmReadYn" : "Y",
                     "userState": 0,
-                    "sendUserProfileImg":"uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
+                    "sendUserProfileImg":"/uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
                     "alarmDiv": "A"
                 },
                 {
@@ -41,7 +41,7 @@
                     "alarmRegDt": "2024.04.30",
                     "alarmReadYn" : "Y",
                     "userState": 0,
-                    "sendUserProfileImg":"uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
+                    "sendUserProfileImg":"/uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
                     "alarmDiv": "A"
                 },
                 {
@@ -51,7 +51,7 @@
                     "alarmRegDt": "2024.03.12",
                     "alarmReadYn" : "Y",
                     "userState": 1,
-                    "sendUserProfileImg":"uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
+                    "sendUserProfileImg":"/uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
                     "alarmDiv": "A"
                 },
                 {
@@ -61,7 +61,7 @@
                     "alarmRegDt": "2024.03.01",
                     "alarmReadYn" : "Y",
                     "userState": 0,
-                    "sendUserProfileImg":"uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
+                    "sendUserProfileImg":"/uploadFiveDotFile/fdUser/3f3b97356aa84b38bb609f0a6330bafb.jpg",
                     "alarmDiv": "A"
                 }
             ],
